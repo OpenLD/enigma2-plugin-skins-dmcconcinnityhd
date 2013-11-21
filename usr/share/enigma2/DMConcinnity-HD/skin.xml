@@ -1294,10 +1294,6 @@
 				}
 	</convert>
     </widget>
-    <widget source="menu" render="Pixmap" pixmap="DMConcinnity-HD/menu/infopanel.png" position="26,141" size="250,297">
-      <convert type="MenuEntryCompare">Infopanel</convert>
-      <convert type="ConditionalShowHide" />
-    </widget>
     <widget source="menu" render="Pixmap" pixmap="DMConcinnity-HD/menu/mc_aaf.png" position="35,188" size="250,250">
       <convert type="MenuEntryCompare">dmc_mainmenu</convert>
       <convert type="ConditionalShowHide" />
